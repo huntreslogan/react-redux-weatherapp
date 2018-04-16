@@ -1,6 +1,7 @@
-# ReduxSimpleStarter
+# React Redux Weather Dashboard
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Use the OpenWeatherMap API and Sparklines to build a weather dashboard. Search for cities and it will display the temp, humidity, and pressure. 
+
 
 ### Getting Started
 
